@@ -23,3 +23,7 @@ Outside of software and AI, I produce and experiment with electronic and acousti
 ## Principle
 
 I’m most interested in building software that is structurally clear, practically useful, and aligned with how people actually work.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/davor-ostojic/)
