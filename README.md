@@ -1,6 +1,6 @@
 # Davor Ostojic
 
-I build enterprise software and AI-enabled systems at the intersection of solution architecture, product thinking, and real business workflows.
+I build enterprise software and AI-enabled systems that make business sense. 
 
 My work spans business application design, integrations, reporting systems, and domain-specific digital products with a growing emphasis on applied AI, LLM-based assistants, retrieval systems, and workflow intelligence.
 
