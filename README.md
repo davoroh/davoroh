@@ -9,6 +9,8 @@ My broader focus is on how software, AI, and product design come together to sol
 
 Outside of software and AI, I produce and experiment with electronic and acoustic music, and spend part of my time gardening and enjoying life with my cat.
 
+Both my favorite *nix command and my favorite animal are: cat. 
+
 ## Areas of Interest
 
 - Applied AI systems
